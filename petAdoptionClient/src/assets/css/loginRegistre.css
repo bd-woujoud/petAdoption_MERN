@@ -1,0 +1,162 @@
+/* 
+
+
+
+.login-container{
+
+
+    
+    margin-bottom: 5%;
+    max-width: 700px;  
+
+    
+}
+
+
+.bg {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(https://th.bing.com/th/id/R.33142d149658f36ea6629efb88f1977a?rik=JGTrm1AdVLi7pQ&riu=http%3a%2f%2fmagzen.m.a.pic.centerblog.net%2fo%2fbd2b18d4.jpg&ehk=kuF0fZjUvRU79iql%2fm4QHuOmrn%2bJg5XQGO0J8VGQuFA%3d&risl=&pid=ImgRaw&r=0);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.login-form-1{
+
+    margin: 150px auto 40px auto;
+    padding: 25px 20px;
+    width: 400px;
+    background: rgba(0, 0, 0, 0.5); 
+    border-radius: 10px;
+    -webkit-box-shadow: -8px 6px 25px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: -8px 6px 25px 0px rgba(0,0,0,0.75);
+    box-shadow: -8px 6px 25px 0px rgb(0 0 0 / 75%);
+
+}
+
+
+.login-form-2{
+
+    padding: 7%;
+    background: #ddaf5e;
+    box-shadow: 0 5px 8px 0 #ddaf5e , 0 9px 26px 0 #e2b568 ;
+}
+
+.login-form-1 h3{
+    text-align: center;
+    margin-bottom:12%;
+    color:#fff;
+    font-size: 40px;
+}
+
+.btnSubmit{
+
+    font-weight: 600;
+    width: 50%;
+    color: #fff !important;
+    background-color: black !important;
+    border: none;
+    
+    padding:2%;
+    float: right;
+}
+
+.btnForgetPwd{
+
+    color: rgb(241, 47, 47);
+    font-weight:bold;
+    margin-top:50px!important;
+    text-decoration: none;
+}
+
+.btnForgetPwd:hover{
+    text-decoration:none;
+    color:#fff;
+}
+
+.form-group{
+
+    padding-top: 20px;
+}
+
+.form-control{
+
+outline: none !important;
+
+}
+
+ */
+
+
+.form-container {
+    margin: 150px auto 40px auto;
+    padding: 25px 20px;
+    width: 400px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    -webkit-box-shadow: -8px 6px 25px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: -8px 6px 25px 0px rgba(0,0,0,0.75);
+    box-shadow: -8px 6px 25px 0px rgb(0 0 0 / 75%);
+}
+
+.bg {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(https://www.naturephoto-cz.com/photos/others/chien-100305.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.registre {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(https://images.newscientist.com/wp-content/uploads/2021/12/14112035/PRI_214918718.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+
+.form-container {
+color:white
+}
+
+sup {
+    color: red;
+}
+
+sup {
+    top: -0.5em;
+}
+
+#btnn {
+    
+    background-color: green!important;
+    border-radius: 5px;
+    color: white !important;
+}
+
+#signup-link{
+
+
+    text-align: center !important;
+
+
+
+}
+.bc{
+    background-color: rgb(241, 240, 240);
+}
+ .form-group>label{
+
+
+    font-size: 15px !important;
+ }
